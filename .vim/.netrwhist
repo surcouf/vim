@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/surcouf/Documents/Sources/Solaris/Solaris-inst-0.09a/Package'
+let g:netrw_dirhist_2='/home/surcouf/.pbuilder/ubuntu/karmic/apt'
+let g:netrw_dirhist_3='/home/surcouf/Documents/Sources/debian/lenny/drupal/drupal6-mod-versioncontrol-project-6.x-2.x-dev/debian'
+let g:netrw_dirhist_4='/etc/apt/sources.list.d'
+let g:netrw_dirhist_5='/home/surcouf/Desktop/Téléchargements'
+let g:netrw_dirhist_6='/home/surcouf/Documents/Sources/debian/sid/snmp/net-snmp-5.6.1.1/.pc/08_defaultconfig.patch'
+let g:netrw_dirhist_7='/home/surcouf/Documents/Sources/snmp/Net-SNMP/AgentX_sub-agents/mysql-snmpd-0.0.1'
+let g:netrw_dirhist_8='/home/surcouf/.snmp/mibs'
